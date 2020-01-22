@@ -1,7 +1,7 @@
 # paper.millenniumclub.ca
-JavaScript Client-Side Dash Wallet Generator
+JavaScript Client-Side MillenniumClub Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
+Now MillenniumClub addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
